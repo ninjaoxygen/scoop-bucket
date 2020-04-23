@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/aelij/RoslynPad",
+  "description": "A cross-platform C# editor based on Roslyn and AvalonEdit",
+  "checkver": "github",
+  "url": "https://github.com/aelij/RoslynPad/releases/download/14.1/RoslynPad.zip",
+  "version": "14.1",
+  "bin": [
+      "RoslynPad.exe"
+  ]
+}
