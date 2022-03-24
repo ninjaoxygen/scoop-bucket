@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ninjaoxygen/wsl-ssh-pageant-monitor/releases/download/v0.0.10/wsl-ssh-pageant-monitor-v0.0.11.zip"
+            "url": "https://github.com/ninjaoxygen/wsl-ssh-pageant-monitor/releases/download/v0.0.11/wsl-ssh-pageant-monitor-v0.0.11.zip"
         }
     },
     "bin": "wsl-ssh-pageant-monitor.exe",
